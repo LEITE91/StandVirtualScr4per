@@ -4,3 +4,4 @@ pip install beautifulsoup4
 
 
 https://www.torproject.org/download/
+be sure to save tor files in the same directory as the code!
