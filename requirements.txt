@@ -1,0 +1,6 @@
+pip install requests
+pip install stem
+pip install beautifulsoup4
+
+
+https://www.torproject.org/download/
